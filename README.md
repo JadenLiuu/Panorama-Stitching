@@ -1,5 +1,4 @@
-# 劉祐欣 Yuhliu<span style="color:red">(105062536)</span>
-# Project 2 / Panorama Stitching
+# Panorama Stitching
 
 ## Overview
 <pre>
