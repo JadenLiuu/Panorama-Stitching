@@ -119,7 +119,7 @@ Here is **the three origin images**:<br>
 </table>
 Panoramic stitching does help to concatenating these pictures well. <br>
 **This is the result**:<br>
-<img src="japan.jpg"/>
+<img src="results/japan.jpg"/>
 
 **Other datas**<br>
 The data given to test. Including 'MelakwaLake.jpg','Hanging.jpg','yosemite.jpg',and 'uttower_pano.jpg'<br>
