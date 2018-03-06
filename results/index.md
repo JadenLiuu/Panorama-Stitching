@@ -1,5 +1,5 @@
-# 劉祐欣 Yuhliu<span style="color:red">(105062536)</span>
-# Project 2 / Panorama Stitching
+
+# Panorama Stitching
 
 ## Overview
 <pre>
@@ -113,9 +113,9 @@ I was in the Tokyo Skytree, and there are 3 pictures I took in different angles.
 Here is **the three origin images**:<br>
 <table>
 <td ALIGN=center>
-<img src="../data/japan1.JPG" width="32%"/>
-<img src="../data/japan2.JPG" width="32%"/>
-<img src="../data/japan3.JPG" width="32%"/>
+<img src="data/japan1.JPG" width="32%"/>
+<img src="data/japan2.JPG" width="32%"/>
+<img src="data/japan3.JPG" width="32%"/>
 </td>
 </table>
 Panoramic stitching does help to concatenating these pictures well. <br>
