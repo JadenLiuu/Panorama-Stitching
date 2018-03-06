@@ -4,11 +4,9 @@
 (Panorama image of Mt. Rainer in Washington USA.)
 </center>
 
-# Project 2: Panorama Stitching
+# Panorama Stitching
 
 ## Brief
-* Due: Nov. 9
-* Required files: results/index.md, and code/
 
 ##Overview
 Panoramic stitching is an early success of computer vision. Matthew Brown and David G. Lowe published a famous [panoramic image stitching paper](http://www.cs.ubc.ca/~lowe/papers/07brown.pdf) in 2007. Since then, automatic panorama stitching technology has been widely adopted in many applications such as Google Street View, panorama photos on smartphones, and stitching software such as [Photosynth](http://photosynth.net/) and [AutoStitch](http://cs.bath.ac.uk/brown/autostitch/autostitch.html).
